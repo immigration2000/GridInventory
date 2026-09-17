@@ -18,10 +18,6 @@
 		{
 			"Name": "BlueprintMaterialTextureNodes",
 			"Enabled": true
-		},
-		{
-			"Name": "NS_BlueprintToText",
-			"Enabled": true
 		}
 	]
 }
